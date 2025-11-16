@@ -3,7 +3,7 @@ plugins {
 }
 
 allprojects {
-    group = 'sh.practice'
+    group = 'kr.co.oreb'
     version = '0.0.1-SNAPSHOT'
 
     repositories {

@@ -1,2 +1,3 @@
 rootProject.name = 'test-study'
 include 'junit5-study'
+include 'spring-boot-test-study'
